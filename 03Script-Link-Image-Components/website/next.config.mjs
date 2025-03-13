@@ -4,7 +4,7 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: "http",
-        hostname: "www.menucool.com",
+        hostname: "images.unsplash.com",
         port: "",
       },
     ],

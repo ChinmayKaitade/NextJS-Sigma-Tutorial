@@ -5,7 +5,7 @@ const Contact = () => {
   return (
     <div>
       <Script>{`alert("Welcome to Contact Page")`}</Script>
-      This is Contact Page
+      Contact Page
     </div>
   );
 };
