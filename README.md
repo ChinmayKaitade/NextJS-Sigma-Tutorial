@@ -7,3 +7,4 @@
 5. Server Actions in NextJS
 6. Middlewares in NextJS
 7. AuthJS Authentication in NextJS
+8. Dynamic Routing in NextJS
