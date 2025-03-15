@@ -8,3 +8,4 @@
 6. Middlewares in NextJS
 7. AuthJS Authentication in NextJS
 8. Dynamic Routing in NextJS
+9. Layouts in NextJS
