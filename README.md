@@ -9,3 +9,5 @@
 7. AuthJS Authentication in NextJS
 8. Dynamic Routing in NextJS
 9. Layouts in NextJS
+10. GetMeAChai - Patreon Clone Project
+11. Understanding next/navigation module in NextJS
